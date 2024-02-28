@@ -1,0 +1,8 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+* https://update.crabgame.online/v1/system/upgrade
+
+
